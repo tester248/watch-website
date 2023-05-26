@@ -9,7 +9,7 @@ please visit the original repository
 
 https://github.com/movie-web/movie-web
 
-Credit @JipFr
+Credit https://github.com/JipFr
 
 
 
