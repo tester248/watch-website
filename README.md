@@ -11,7 +11,7 @@ https://github.com/movie-web/movie-web
 
 ## Credits
 
-This project would not be possible without our amazing contributors and the community.
+This project would not be possible without these amazing contributors and the community.
 
 <a href="https://github.com/movie-web/movie-web/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/movie-web/movie-web?style=flat-square"></a>
 
